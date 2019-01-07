@@ -7,5 +7,5 @@ echo "user $i added successfully created";
 echo ""
 echo $i"123"|passwd --stdin $i
 echo;
-echo "user $i password successfully changed"
+echo "user $i password successfully changed";
 done 
